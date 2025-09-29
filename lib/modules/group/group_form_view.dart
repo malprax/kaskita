@@ -42,8 +42,8 @@ class _GroupFormViewState extends State<GroupFormView> {
                     child: Text('Arisan'),
                   ),
                   DropdownMenuItem(
-                    value: GroupType.kajian,
-                    child: Text('Kajian'),
+                    value: GroupType.keamanan,
+                    child: Text('Keamanan'),
                   ),
                 ],
                 onChanged: (v) => setState(() => type = v ?? GroupType.rt),

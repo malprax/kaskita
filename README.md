@@ -31,3 +31,6 @@ DAY 7: ProGuard (paywall routing) + rules awal ✅
 3) Tambah import CSV anggota (opsional) & template WA custom (fitur Pro).
 4) Integrasi FirebaseAuth & upgrade Firestore rules berbasis owner.
 5) Implement ExportService: Excel/CSV toggle + Simpan ke Storage (Pro).
+
+sudo killall coreaudiod    
+

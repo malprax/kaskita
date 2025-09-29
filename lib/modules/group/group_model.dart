@@ -1,4 +1,4 @@
-enum GroupType { rt, arisan, kajian }
+enum GroupType { rt, arisan, keamanan, sampah }
 
 groupTypeFromString(String v) {
   switch (v) {
@@ -6,8 +6,10 @@ groupTypeFromString(String v) {
       return GroupType.rt;
     case 'Arisan':
       return GroupType.arisan;
+    case 'Sampah':
+      return GroupType.sampah;
     default:
-      return GroupType.kajian;
+      return GroupType.keamanan;
   }
 }
 
