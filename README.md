@@ -1,3 +1,8 @@
+## Ganti pertama kali
+```text
+# Ubah isi nya dan rename filenya --> firebase_options copy.dart ke firebase_options.dart
+```
+---
 ## Seed Copywriting WA (untuk kontrol kualitas)
 ```text
 # Reminder individu
